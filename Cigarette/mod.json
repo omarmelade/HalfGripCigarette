@@ -2,7 +2,7 @@
   "id": "cigarette",
   "name": "Cigarette",
   "version": "2.0.0",
-  "author": "omark",
+  "author": "omaremelade",
   "description": "A cigarette on the dash and a lighter by the wheel: grab it, light it, right click to take a drag. A drag gives a few seconds of slow motion and focus.",
   "gameVersion": "0.419"
 }
